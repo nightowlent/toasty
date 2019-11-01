@@ -1,0 +1,30 @@
+# pwd
+pwd
+/system/bin
+
+# ls -l
+ls -l
+-rwxr-xr-x root root 196 2008-02-29 01:09 am
+-rwxr-xr-x root root 2342 2008-02-29 01:09 dumpstate
+-rwxr-xr-x root root 208 2008-02-29 01:09 input
+-rwxr-xr-x root root 212 2008-02-29 01:09 monkey
+-rwxr-xr-x root root 196 2008-02-29 01:09 pm
+
+…
+
+lrwxr-xr-x root root 2008-02-29 01:16 mount -> toolbox
+lrwxr-xr-x root root 2008-02-29 01:16 notify -> toolbox
+-rwxr-xr-x root root 28032 2008-02-29 01:16 dexdump
+-rwxr-xr-x root root 7100 2008-02-29 01:16 dumpsys
+-rwxr-xr-x root root 7904 2008-02-29 01:16 mem_profiler
+-rwxr-xr-x root root 6480 2008-02-29 01:16 service
+-rwxr-xr-x root root 4320 2008-02-29 01:16 rild
+-rwxr-xr-x root root 4928 2008-02-29 01:16 sdutil
+-rwxr-xr-x root root 26488 2008-02-29 01:16 sqlite3
+-rwxr-xr-x root root 4148 2008-02-29 01:16 dexopt
+-rwxr-xr-x root root 4908 2008-02-29 01:16 dalvikvm
+-rwsr-sr-x root root 3200 2008-02-29 01:16 surfaceflinger
+-rwxr-xr-x root root 5420 2008-02-29 01:16 app_process
+-rwxr-xr-x root root 39408 2008-02-29 01:16 runtime
+-rwxr-xr-x root root 2920 2008-02-29 01:16 system_server
+-rwxr-xr-x root root 9168 2008-02-29 01:17 pv
